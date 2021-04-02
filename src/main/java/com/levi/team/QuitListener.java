@@ -13,5 +13,4 @@ public class QuitListener implements Listener {
         Player player = e.getPlayer();
 
     }
-
 }
