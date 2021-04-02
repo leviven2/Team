@@ -16,6 +16,7 @@ public class JoinListener implements Listener {
         player.sendMessage(ChatColor.GREEN + "You have joined the server!");
         player.setLevel(0);
 
+
     }
 
 }
