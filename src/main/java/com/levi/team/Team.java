@@ -11,6 +11,7 @@ public final class Team extends JavaPlugin {
         System.out.println("Team plugin enabled!");
 
         Bukkit.getPluginManager().registerEvents(new JoinListener(), this);
+        Bukkit.getPluginManager().registerEvents(new QuitListener(), this);
 
     }
 }
