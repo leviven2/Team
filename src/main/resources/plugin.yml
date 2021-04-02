@@ -1,0 +1,6 @@
+name: Team
+version: ${project.version}
+main: com.levi.team.Team
+api-version: 1.16
+authors: [ Luvi ]
+description: Team plugin test!
