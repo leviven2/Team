@@ -1,4 +1,4 @@
-package com.levi.team;
+package com.levi.core;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
@@ -14,7 +14,6 @@ public class JoinListener implements Listener {
         Player player = e.getPlayer();
 
         player.sendMessage(ChatColor.GREEN + "You have joined the server!");
-        player.setLevel(0);
 
     }
 

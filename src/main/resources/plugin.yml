@@ -1,6 +1,6 @@
-name: Team
+name: Core
 version: ${project.version}
-main: com.levi.team.Team
+main: com.levi.core.Main
 api-version: 1.16
 authors: [ Luvi ]
-description: Team plugin test!
+description: Core plugin!
