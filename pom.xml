@@ -4,14 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.levi</groupId>
-    <artifactId>Core</artifactId>
+    <groupId>com.luvi</groupId>
+    <artifactId>duelscore</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>Core</name>
+    <name>Duels Core</name>
 
-    <description>Core plugin!</description>
+    <description>Duels Core plugin!</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
